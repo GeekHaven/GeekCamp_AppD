@@ -3,6 +3,6 @@
     "username": "insanecoder02",
     "roll number": "IEC2022003",
     "task 1": {
-        "repo link": "https://github.com/insanecoder02/insanecoder02"
+        "repo link": "https://github.com/insanecoder02/insanecoder02_APPD_task"
     }
 }
