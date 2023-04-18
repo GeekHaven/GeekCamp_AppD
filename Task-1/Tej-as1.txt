@@ -3,6 +3,6 @@
     "username": "Tej-as1",
     "roll number": "IIT2022161",
     "task 1": {
-        "repo link": "https://github.com/Tej-as1/Tej-as1_APPD1.git"
+        "repo link": "https://github.com/Tej-as1/Tej-as1___APPD.git"
     }
 }
