@@ -1,0 +1,8 @@
+{
+    "name": "Oshanki Priya",
+    "username": "Oshankiii12",
+    "roll number": "IEC2022021",
+    "task 1": {
+        "repo link": "https://github.com/Oshankiii12/Aurora"
+    }
+}
